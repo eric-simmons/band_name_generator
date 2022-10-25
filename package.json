@@ -1,0 +1,23 @@
+{
+  "name": "band_name_generator",
+  "version": "1.0.0",
+  "description": "A simple band name generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eric-simmons/band_name_generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eric-simmons/band_name_generator/issues"
+  },
+  "homepage": "https://github.com/eric-simmons/band_name_generator#readme",
+  "dependencies": {
+    "chalk-animation": "^2.0.3",
+    "random-word-slugs": "^0.1.6"
+  }
+}
